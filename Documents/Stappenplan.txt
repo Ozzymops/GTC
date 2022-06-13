@@ -1,0 +1,11 @@
+Master Page
+-----------
+ 1.0.	Header								[X]
+ 1.1.	Roulerende foto's in header			[X]
+ 1.2. 	Logo in header						[X]
+ 2.0.	Navigatiebalk						[X]
+ 3.0.	Footer								[ ]
+
+Home
+-----------
+ 1. 

@@ -1,0 +1,44 @@
+[Hosting]
+- Domeinnaam via https://www.mijndomein.nl, hosting via https://www.mijnhostingpartner.nl/webhosting/php-hosting. Komt rond de €5,- per maand neer.
+- SSL-certificaat (Domein validatie SSL certificaat excl. IP) kost eenmalig €25,00- en daarna €20,00- per jaar.
+
+[Mijn kosten]
+- €100,- / €200,- voor de website, ligt aan hoe complex het is en hoe veel tijd het mij nam.
+- €10,- per wijziging dat meer dan een uur zou nemen.
+
+[Must Have]
+- Site is zichtbaar op Google (top 10 resultaten) en krijgt een Google Business blokje (telefoonnummer, adres, openingstijden, etc.).
+- Server bevat een mailserver, zodat het e-mails kan sturen met betrekking tot aanmeldingen -> wordt geleverd door hosting service.
+- Multi-page site met een navigatiebalk bovenaan, Hamburger-menu voor telefoons.
+- Aspirant-leden moeten kunnen inschrijven via de site, waarna een e-mail verzonden wordt voor bevestiging en een e-mail naar degene die de aanmeldingen afhandelt.
+- Aspirant-leden moeten kunnen inschrijven voor een proefdag via de site, waarna een e-mail verzonden wordt voor bevestiging en een e-mail naar degene die de aanmeldingen afhandelt.
+- AVG is erg belangrijk! Moet worden toegepast bij het inschrijfformulier (toestemming voor videos/fotos maken en posten op media, etc.).
+- De site is kindvriendelijk, makkelijk navigeerbaar en licht op de ogen.
+- Een lesschema moet aanwezig en vindbaar zijn op de site. Het lesschema omvat een tabel met datum, tijd, wat er dan is, etc.
+- Bovenstaand lesschema moet ook door een administrator bewerkbaar zijn.
+- Een blogpagina moet aanwezig en vindbaar zijn op de site. De blogpagina omvat nieuwtjes, evenementen, etc.
+- Bovenstaand blogpagina moet ook door een administrator bewerkbaar zijn.
+- Op de homepage worden de laatste 1-tot-3 blogpagina posts zichtbaar gemaakt in een rubriek Actueel.
+- Een pagina met fotos moet aanwezig en vindbaar zijn op de site. De fotopagina omvat uitrekbare kopjes met een kleine fotogalerij.
+- Bovenstaand fotopagina moet ook door een administrator bewerkbaar zijn.
+- Een fotocarousel is aanwezig in de titelbalk bovenaan, en roteert door drie fotos heen.
+- Aanmelden voor (proef)lessen moet ook vanaf de homepage kunnen met een duidelijke knop.
+- Een pagina met het huidig aanbod moet aanwezig en vindbaar zijn op de site. De aanbodpagina omvat informatie over de verschillende disciplines, programmas, etc.
+- Bovenstaand aanbodpagina moet ook door een administrator bewerkbaar zijn.
+- Een administratiepagina moet aanwezig zijn en alleen vindbaar zijn door de administratoren. Via deze pagina moet content op de site bewerkbaar zijn.
+
+[Should Have]
+- Afmelden moet vanaf de homepage kunnen. Dit is alleen afmelden voor een les, ziekmelden.
+- Volledig afmelden moet niet laagdrempelig zijn, sta alleen toe via een e-mail of telefoonnummer.
+
+[Could Have]
+- In plaats van e-mails voor afmeldingen, stuur een WhatsApp bericht. https://stackoverflow.com/questions/48333959/send-messages-to-whatsapp-number-using-php
+- Kleine webshop om een sportshirt te kopen met een nummer erop voor de vereniging.
+- Integratie met Club Assistent.
+- Integratie met Facebook en andere sociale media -> post op site leidt tot een auto-post op sociale media of vice versa.
+
+[Notities]
+- Bekijk site Turnclub Wilhelmina Bocholts/Olympia Landgraaf/GV Vaals/Dynamica Parkstad voor design/mobile inspiratie.
+- Vrijwilligerspagina (Wij zoeken vrijwilligers!).
+- Inhoud brochure moet ook op de site.
+- Donkerblauw-wit en zwart kleurschema (zie brochure).
