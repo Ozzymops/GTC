@@ -7,7 +7,27 @@
 		<?php
 			require("master-header.php");
 		?>
-		<p>Nieuws pagina!</p>
+		<h2 class="ignore-direction">15-6-2022</h2><hr/>
+		<div class="div-left">
+			<img class="image-left" src="img/placeholder.png">
+			<?php
+				require("loremipsum.php");
+			?>
+		</div>
+		<h2 class="ignore-direction">14-6-2022</h2><hr/>
+		<div class="div-left">
+			<img class="image-left" src="img/placeholder.png">
+			<?php
+				require("loremipsum.php");
+			?>
+		</div>
+		<h2 class="ignore-direction">13-6-2022</h2><hr/>
+		<div class="div-left">
+			<img class="image-left" src="img/placeholder.png">
+			<?php
+				require("loremipsum.php");
+			?>
+		</div>
 		<?php
 			require("master-footer.php");
 		?>
